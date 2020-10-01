@@ -1,6 +1,4 @@
 #Simple Calculator program using class
-
-
 class cal():
     def __init__(self,a,b):
         self.a = a
